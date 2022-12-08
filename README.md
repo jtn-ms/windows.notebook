@@ -2,6 +2,7 @@
 | feature | hotkey | 
 | ------- | --------
 | screenclip | win + shift + s
+| clipboard | win + v
 | emoticon | win + >
 | clean screen | win + d
 | temporary clean screen| win + <
